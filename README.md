@@ -1,11 +1,10 @@
-# Sample Snack app
+# MyMentor
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Are you a Brandeis Student looking for advice but can't find the right person to talk to? Whether it is fun places to go to or courses to choose, MyMentor is the right place for you. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+![image](https://user-images.githubusercontent.com/89489725/144368661-0c8b4977-64dd-4374-95f4-a75fe48dd4a0.png)
+![image](https://user-images.githubusercontent.com/89489725/144368592-02f4e714-0934-45a5-bbe2-31078c6cf92b.png)
+![image](https://user-images.githubusercontent.com/89489725/144368712-fdc17dc8-ab77-4e3a-be18-0cae3abc2d2d.png)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+This app uses React Native framework. In particular, it uses React Native core components including Button, FlatList, Image, ScrollView, TextInput. 
+The app uses data extracted from a local JSON file, in addition to data from an API call.
