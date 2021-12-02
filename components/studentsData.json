@@ -1,0 +1,70 @@
+{
+ "users": [
+    {
+      "userId": 2,
+      "firstName": "Jessica",
+      "lastName": "Jacson",
+      "phoneNumber": "123456",
+      "emailAddress": "racks.jacson@gmail.com",
+      "major": "Math",
+      "location": "Boston, MA",
+      "advice": ["Algebra", "Research Assistant Positions"],
+      "image":"https://www.befunky.com/images/wp/wp-2021-01-linkedin-profile-picture-focus-face.jpg?auto=webp&format=jpg&width=944"
+    },
+    {
+      "userId": 3,
+      "firstName": "Mariam",
+      "lastName": "Salah",
+      "phoneNumber": "33333333",
+      "emailAddress": "denial.roast@gmail.com",
+      "major": "Dance",
+      "location": "Cambridge, MA",
+      "advice":["Dance Clubs on Campus", "Healthy Food"],
+      "image":"https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/151708063_837614650163035_4418859216166002243_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=ZDA89HmyFFsAX_esGEZ&_nc_ht=scontent-bos3-1.xx&oh=17ef33b55318d47d53cdf66c1165f09c&oe=61C163EC"
+    },
+    {
+      "userId": 4,
+      "firstName": "Lina",
+      "lastName": "Kassey",
+      "phoneNumber": "222222222",
+      "emailAddress": "devid.neo@gmail.com",
+      "major": "Business",
+      "location": "Waltham, MA",
+      "advice": ["Crytocurrency", "Blockchain", "Wolf of Wall Street"],
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJvX3JpGq_NHsUX5Adb5acAAf2EEQWuZpg2QR-PDVWxXFLcS92ISZNWz6pDqk4oiIDaA&usqp=CAU"
+    },
+    {
+      "userId": 5,
+      "firstName": "Amal",
+      "lastName": "Mac",
+      "phoneNumber": "111111111",
+      "emailAddress": "jone.mac@gmail.com",
+      "major": "Economics",
+      "location": "Boston, MA",
+      "advice": ["Economics Electives","Supply-Demand graphs"],
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNB89jVC6dXKWrzJtliXHxdwM7KbjYCGluLA&usqp=CAU"
+    },
+    {
+      "userId": 6,
+      "firstName": "Jack",
+      "lastName": "Smith",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@gmail.com",
+      "major": "Computer Science",
+      "location": "Waltham, MA",
+      "advice": ["Front end development", "Full stack frameworks", "UX/UI Design"],
+      "image":"https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/GettyImages-1092658864_hero-1024x575.jpg?w=1155&h=1528g"
+    },
+    {
+      "userId": 7,
+      "firstName": "Thomas",
+      "lastName": "Jeff",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@gmail.com",
+      "major": "Applied Mathematics and Economics",
+      "location": "Waltham, MA",
+      "advice": ["Linear Algebra", "Applied Math", "Pure Math"],
+      "image":"https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFjZXN8ZW58MHx8MHx8&w=1000&q=80"
+    }
+  ]
+}
