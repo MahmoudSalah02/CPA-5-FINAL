@@ -8,4 +8,3 @@ Are you a Brandeis Student looking for advice but can't find the right person to
 
 This app uses React Native framework. In particular, it uses React Native core components including Button, FlatList, Image, ScrollView, TextInput. 
 The app uses data extracted from a local JSON file, in addition to data from an API call.
-Movie:https://drive.google.com/file/d/1tAO-RSsoHpkWo_wjNYctNMwTZeDGCJnp/view
